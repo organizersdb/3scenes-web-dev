@@ -1,0 +1,1 @@
+import{u as s,j as t}from"./index-DRR2ciDs.js";const x=()=>{const{id:e}=s();return t.jsxs("form",{className:"flex max-w-lg flex-col",children:[t.jsx("h1",{className:"text-center font-sans text-xl font-bold md:text-left md:text-3xl",children:"個人檔案"}),e]})};export{x as default};

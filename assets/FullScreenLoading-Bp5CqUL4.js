@@ -1,0 +1,1 @@
+import{j as e,L as t}from"./index-DRR2ciDs.js";const i=()=>e.jsx("div",{className:"pointer-events-auto fixed inset-0 z-50 flex items-center justify-center bg-white bg-opacity-80",children:e.jsx(t,{})});export{i as F};

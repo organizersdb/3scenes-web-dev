@@ -1,0 +1,1 @@
+import{r as n,T as s,j as o}from"./index-DRR2ciDs.js";const a={SUCCESS:"bg-cyan",INFO:"bg-cyan",WARNING:"bg-cyan",ERROR:"bg-pink"},i=()=>{const{isShowAlert:t,alertSeverity:e,alertContent:r}=n.useContext(s);return t?o.jsx("div",{className:`${a[e]} fixed left-1/2 top-8 w-96 -translate-x-1/2 rounded-lg px-8 py-4`,children:r}):null};export{i as default};

@@ -1,0 +1,1 @@
+import{r as a,A as i,j as t,N as n,O as o}from"./index-DRR2ciDs.js";const x=()=>{const{isInitializing:e,authUser:s}=a.useContext(i);return e?t.jsx(t.Fragment,{}):s!=null&&s.id?t.jsx(n,{to:"/"}):t.jsx(o,{})};export{x as default};
